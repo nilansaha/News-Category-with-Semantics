@@ -15,14 +15,14 @@ function get_doc_embedding(doc){
       then find its embedding and add it to the doc embedding
    return the overall doc embedding
    
-main {
+function main {
   for every doc in corpus
     create a matrix from their doc embeddings
   
   calculate the cosine similarity between every document and store the matrix of the categories of the nearest docs
 }
 
-evaluate {
+function evaluate {
   for every doc
     find the mode of the categories of the k most similar docs
     check if that category is the same as the actual category
