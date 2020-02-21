@@ -18,7 +18,6 @@ function get_doc_embedding(doc){
 function main {
   for every doc in corpus
     create a matrix from their doc embeddings
-  
   calculate the cosine similarity between every document and store the matrix of the categories of the nearest docs
 }
 
