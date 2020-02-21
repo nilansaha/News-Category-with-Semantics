@@ -6,4 +6,4 @@ semantics in terms of embeddings and unsupervised similarity metrics to classify
 Disclaimer - Framing this as a supervised problem would yield much better results
 
 Performance results for different `k` values 
-![Screenshot](https://i.imgur.com/YTTg0fc.png =250x)
+![Screenshot](https://i.imgur.com/YTTg0fc.png | width=50)
