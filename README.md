@@ -1,5 +1,7 @@
 ## News-Category-with-Semantics
 
+Classifying news category using word embeddings and cosine similarity
+
 Supervised Learning although is really efficient has the same pipeline most of the time. For a change I wanted to see how far we could go using just
 semantics in terms of embeddings and unsupervised similarity metrics to classify categories of the 20newsgroup dataset.
 
